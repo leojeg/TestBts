@@ -31,6 +31,7 @@ public class FXML_Course2fxmlController implements Initializable
 {
     @FXML
     ComboBox ldrCourse;
+    //CECI EST UN TEST
     /**
      * Initializes the controller class.
      */
